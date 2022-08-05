@@ -11,11 +11,11 @@ function App() {
               <img className="img" src={imgimg} alt="jp"/>
               <div className='warp-input'>
                 <input className='input' type="email"></input>
-              <span className="focus-input" data-placeholder="Email"> </span>
+              <span className="focus-input" data-placeholder="E-mail"> </span>
               </div>
              <div className='warp-input'>
                 <input className='input' type="password"></input>
-              <span className="focus-input" data-placeholder="password"> </span>
+              <span className="focus-input" data-placeholder="Password"> </span>
               </div>
               <div className='container-login-form-btn'>
               <button className='login-form-btn'>Login</button>
