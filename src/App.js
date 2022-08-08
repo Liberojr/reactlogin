@@ -6,7 +6,7 @@ function App() {
     <div className="container-login">
       <div className="wrap-login">
         <form className="login-form">
-          <span className="login-form-title">Bem Vindo</span>
+          <span className="login-form-title">Welcome</span>
             <span className="login-form-title"></span>
               <img className="img" src={imgimg} alt="jp"/>
               <div className='warp-input'>
@@ -21,8 +21,8 @@ function App() {
               <button className='login-form-btn'>Login</button>
               </div>
               <div className='text-center'>
-                <span className='txt1'>Não possui conta?</span>
-              <a className='txt2' href='#'>Criar conta</a>
+                <span className='txt1'>Don't have an account?</span>
+              <a className='txt2' href='#'>Create account</a>
             </div>
         </form>
       </div>

@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 .container {
     width: 100%;
@@ -25,7 +27,7 @@
 .wrap-login {
     width: 390px;
     background: rgb(95,95,145);
-    background: linear-gradient(90deg, rgba(95,95,145,1) 48%, rgba(0,212,255,1) 100%, rgba(2,0,36,1) 100%);
+    background: #f4f4f4;
     border-radius:  15px;
 
     overflow: hidden;
@@ -40,7 +42,7 @@
 .login-form-title {
     display: block;
     font-size: 30px;
-    color: azure;
+    color: #666;
     line-height: 1.2;
     text-align: center;
 }
@@ -185,15 +187,15 @@
   }
   
   .txt1 {
-    font-size: 20px;
-    color: #adadad;
+    font-size: 15px;
+    color: #272626;
     line-height: 1.5;
     padding-right: 5px;
   }
   
   .txt2 {
-    font-size: 20px;
-    color: #000000;
+    font-size: 15px;
+    color: #1100ff;
     line-height: 1.5;
     text-decoration: none;
   }
